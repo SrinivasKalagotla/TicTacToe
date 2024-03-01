@@ -67,3 +67,10 @@ body{
 .hide{
     display: none;
 }
+.playerO {
+    color: #4CAF50; /* Green for O */
+}
+
+.playerX {
+    color: #F44336; /* Red for X */
+}
